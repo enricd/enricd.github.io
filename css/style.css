@@ -23,3 +23,25 @@
     color:white;
     padding: 5px;
 }
+
+.home{
+    background: url("../images/homeBack.jpg");
+    background-size: cover;
+    height: 100vh;
+    font-family: Helvetica;
+}
+
+.home .text-container{
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20vh;
+}
+
+.image1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
