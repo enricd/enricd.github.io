@@ -1,2 +1,2 @@
 # enricd.github.io
-This is a personal website for testing, practicing and learning
+This is my personal webpage (currently under construction) to learn, practice and also act as a portfolio.
