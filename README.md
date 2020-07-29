@@ -1,4 +1,7 @@
 # enricdomingo.com / enricdomingo.dev / enricd.github.io
+
+www.enricdomingo.com
+
 This is my personal webpage (in continuous development) to learn, practice and also act as a portfolio.
 
 ## v1.0 (current):
