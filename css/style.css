@@ -46,7 +46,6 @@
 
 .home .image1{
     display: flex;
-    align-items: center;
     justify-content: center;
 }
 
@@ -88,7 +87,21 @@
 }
 
 .projects-content .card-container ul li p{
-    text-align: justify;
+    text-align: center;
     font-family: 'Lato', sans-serif;
     color: green;
+}
+
+.contact .contact-content{
+    margin: 80px auto 0 auto;
+    text-align: center;
+}
+
+.contact .contact-content h1{
+    font-family: 'Roboto', sans-serif;
+    color: #089da9;
+}
+
+.contact .contact-content .address-holder{
+    font-family: 'Lato', sans-serif;
 }
